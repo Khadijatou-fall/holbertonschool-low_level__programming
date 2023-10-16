@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -E $CFILES -O
+gcc -E $CFILES > c
